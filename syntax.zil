@@ -67,7 +67,7 @@
 
 ;<SYNTAX $CHEAT OBJECT = V-$CHEAT>
 
-<SYNTAX $PROB = V-$PROB>
+;<SYNTAX $PROB = V-$PROB>
 
 
 ;"subtitle real verbs"
