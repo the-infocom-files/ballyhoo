@@ -1,10 +1,10 @@
-*This page is currently under construction. Last updated July 10, 2019 by Alex Proudfoot.*
+# Ballyhoo
 
-----
+## The Game
 
-Ballyhoo was Infocom's 19th IF game and was first released in 1986.
+Ballyhoo is a 1985 interactive fiction game written by Jeff O'Neill and published by Infocom.
 
-Further information on Ballyhoo:
+The following sources provide further information on Ballyhoo:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Ballyhoo_(video_game))
 * [The Digital Antiquarian](https://www.filfre.net/2014/12/ballyhoo/)
@@ -12,16 +12,29 @@ Further information on Ballyhoo:
 * [The Infocom Gallery](http://gallery.guetech.org/ballyhoo/ballyhoo.html)
 * [IFWiki](http://www.ifwiki.org/index.php/Ballyhoo)
 
-The following source material is available for importation. Release 99 was selected from the Zarf Sources.
+## Resources
 
-## Historical Releases
+* [Ballyhoo on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#ballyhoo)
+* [Ballyhoo on Historical Source (GitHub)](https://github.com/historicalsource/ballyhoo)
+* [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
-These contain the available source material.
+## Version History
 
-| Release | Serial | Story File       | Zarf Sources | Jason Scott Sources |
-| -------:|:------:|:----------------:|:------------:|:-------------------:|
-|      99 | 861014 | [r99-s861014-z3] |    [r99-zip] |    [final-revision] |
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Ballyhoo listed in the Infocom Fact Sheet. It also holds the source files for version 99/861014.
 
-[r99-s861014-z3]: https://eblong.com/infocom/gamefiles/ballyhoo-r99-s861014.z3
-[r99-zip]: https://eblong.com/infocom/sources/ballyhoo-r99.zip
-[final-revision]: https://github.com/historicalsource/ballyhoo/tree/25289d940369e05a37d1a32d0e8dcb113a77ba2f
+| Release | Serial | Story File                | Zarf Sources       | Historical Sources |
+| -------:|:------:|:-------------------------:|:------------------:|:------------------:|
+|      97 | 851218 | [ballyhoo-r97-s851218.z3] |                  - |                  - |
+|      99 | 861014 | [ballyhoo-r99-s861014.z3] | [ballyhoo-r99.zip] |   [final revision] |
+
+[ballyhoo-r97-s851218.z3]: https://eblong.com/infocom/gamefiles/ballyhoo-r97-s851218.z3
+
+[ballyhoo-r99-s861014.z3]: https://eblong.com/infocom/gamefiles/ballyhoo-r99-s861014.z3
+[ballyhoo-r99.zip]: https://eblong.com/infocom/sources/ballyhoo-r99.zip
+[final revision]: https://github.com/historicalsource/ballyhoo/tree/25289d940369e05a37d1a32d0e8dcb113a77ba2f
+
+## Future Development
+
+Version 99/861014 has been selected as the starting point for future development.
+
+Compilation issues are recorded [here](https://github.com/the-infocom-files/ballyhoo/issues/2).
