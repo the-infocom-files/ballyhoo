@@ -20,12 +20,10 @@ The following sources provide further information on Ballyhoo:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Ballyhoo listed in the Infocom Fact Sheet. It also holds the source files for version 99/861014.
-
-| Release | Serial | Story File                | Zarf Sources       | Historical Sources |
-| -------:|:------:|:-------------------------:|:------------------:|:------------------:|
-|      97 | 851218 | [ballyhoo-r97-s851218.z3] |                  - |                  - |
-|      99 | 861014 | [ballyhoo-r99-s861014.z3] | [ballyhoo-r99.zip] |   [final revision] |
+| Release | Serial | Type | Story File                | Obsessive Sources  | Historical Sources |
+| -------:|:------:|:----:|:-------------------------:|:------------------:|:------------------:|
+|      97 | 851218 |  PUB | [ballyhoo-r97-s851218.z3] |                  - |                  - |
+|      99 | 861014 |  FIN | [ballyhoo-r99-s861014.z3] | [ballyhoo-r99.zip] |   [final revision] |
 
 [ballyhoo-r97-s851218.z3]: https://eblong.com/infocom/gamefiles/ballyhoo-r97-s851218.z3
 
